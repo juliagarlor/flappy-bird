@@ -32,7 +32,7 @@ Special thanks to the team of CS50 of Harvard University, without whom I wouldn'
 
 Please, make sure to check the lecture to develop this project in the following link: https://youtu.be/3IdOCxHGMIo
 
-Regarding to this Pong1.0 version, any feedback for improvement is welcome, and I hope you have fun using it.
+Regarding to this flappy-bird version, any feedback for improvement is welcome, and I hope you have fun using it.
 
 ![Win](screenshots/Medal.JPG)
 
